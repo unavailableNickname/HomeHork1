@@ -61,5 +61,4 @@ public class hw1 {
             } else if (year % 4 == 0) System.out.println(year + " Високосный");
             else System.out.println(year + " Невисокосный");
         }
-        //тестовая надпись
 }
